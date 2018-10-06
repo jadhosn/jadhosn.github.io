@@ -1,6 +1,8 @@
 # Site settings
 title: Jad Hosn
-description: 'A portfolio by Jad Hosn'
+description: > Jad
+  jad
+  jad
 url: 'http://jadhosn.github.io'
 baseurl: ''
 
