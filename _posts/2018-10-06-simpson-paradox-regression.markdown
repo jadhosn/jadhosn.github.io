@@ -1,5 +1,5 @@
 ---
-title:  [Look Me][linkedin]
+title:  [Look Me][https://linkedin.com/in/jadahosn]
 date:   2018-10-06 15:04:23
 categories: [article]
 tags: [article]
@@ -23,4 +23,3 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
-[linkedin]: https://linkedin.com/in/jadahosn
