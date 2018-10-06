@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63c9f817-df7a-4068-983c-6f9a792b826f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,15 +53,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="127" />
-          <entry key="txt" value="111" />
+          <entry key="html" value="133" />
+          <entry key="txt" value="123" />
           <entry key="yml" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="127" />
-          <entry key="PLAIN_TEXT" value="111" />
+          <entry key="HTML" value="133" />
+          <entry key="PLAIN_TEXT" value="123" />
           <entry key="YAML" value="115" />
         </counts>
       </usages-collector>
@@ -90,8 +90,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="73" lean-forward="true" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
+            <state relative-caret-position="375">
+              <caret line="91" selection-start-line="91" selection-end-line="92" selection-end-column="55" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
               </folding>
@@ -219,7 +219,7 @@
       <option name="presentableId" value="Default" />
       <updated>1538538091453</updated>
       <workItem from="1538538093022" duration="4682000" />
-      <workItem from="1538847001233" duration="1627000" />
+      <workItem from="1538847001233" duration="1893000" />
     </task>
     <task id="LOCAL-00001" summary="Updated new icons for medium and kaggle&#10;using new fav icons">
       <created>1538847475074</created>
@@ -263,11 +263,25 @@
       <option name="project" value="LOCAL" />
       <updated>1538848665295</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="link for favicons 1.05">
+      <created>1538848773605</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1538848773605</updated>
+    </task>
+    <task id="LOCAL-00008" summary="link for favicons 1.05">
+      <created>1538848937733</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1538848937733</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6309000" />
+    <option name="totallyTimeSpent" value="6575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="759" y="22" width="917" height="1003" extended-state="0" />
@@ -305,7 +319,8 @@
     <MESSAGE value="link for favicons 1.02" />
     <MESSAGE value="link for favicons 1.03" />
     <MESSAGE value="link for favicons 1.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="link for favicons 1.04" />
+    <MESSAGE value="link for favicons 1.05" />
+    <option name="LAST_COMMIT_MESSAGE" value="link for favicons 1.05" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tags.md">
@@ -407,8 +422,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="73" lean-forward="true" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
+        <state relative-caret-position="375">
+          <caret line="91" selection-start-line="91" selection-end-line="92" selection-end-column="55" />
           <folding>
             <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
           </folding>
