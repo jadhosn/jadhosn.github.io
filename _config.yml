@@ -1,9 +1,11 @@
 # Site settings
 title: Jad Hosn
 description: >
-  Jad
-  jad
-  jad
+  Welcome to my data science portfolio!
+
+  Junior data scientist that is passionate about leveraging data to the use of profitability.
+
+  Currently working at DriveTime in Tempe, AZ.
 url: 'http://jadhosn.github.io'
 baseurl: ''
 

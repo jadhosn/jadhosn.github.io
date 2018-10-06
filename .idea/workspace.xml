@@ -55,15 +55,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="259" />
-          <entry key="txt" value="394" />
-          <entry key="yml" value="192" />
+          <entry key="txt" value="420" />
+          <entry key="yml" value="369" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="259" />
-          <entry key="PLAIN_TEXT" value="394" />
-          <entry key="YAML" value="192" />
+          <entry key="PLAIN_TEXT" value="420" />
+          <entry key="YAML" value="369" />
         </counts>
       </usages-collector>
     </session>
@@ -73,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="105">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -127,9 +127,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="243" />
+    <option name="x" value="937" />
     <option name="y" value="22" />
-    <option name="width" value="1176" />
+    <option name="width" value="757" />
     <option name="height" value="1003" />
   </component>
   <component name="ProjectView">
@@ -189,7 +189,7 @@
       <option name="presentableId" value="Default" />
       <updated>1538538091453</updated>
       <workItem from="1538538093022" duration="4682000" />
-      <workItem from="1538847001233" duration="5641000" />
+      <workItem from="1538847001233" duration="5900000" />
     </task>
     <task id="LOCAL-00001" summary="Updated new icons for medium and kaggle&#10;using new fav icons">
       <created>1538847475074</created>
@@ -352,17 +352,31 @@
       <option name="project" value="LOCAL" />
       <updated>1538852598535</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="trying string">
+      <created>1538852812834</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1538852812834</updated>
+    </task>
+    <task id="LOCAL-00025" summary="trying string">
+      <created>1538852899439</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1538852899439</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10323000" />
+    <option name="totallyTimeSpent" value="10582000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="243" y="22" width="1176" height="1003" extended-state="0" />
+    <frame x="937" y="22" width="757" height="1003" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1974026" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1974026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.25137213" />
@@ -408,7 +422,8 @@
     <MESSAGE value="final run for resume" />
     <MESSAGE value="final run for resume - new tab" />
     <MESSAGE value="google analytics updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="google analytics updated" />
+    <MESSAGE value="trying string" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying string" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tags.md">
@@ -513,8 +528,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="105">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
