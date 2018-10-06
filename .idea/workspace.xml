@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63c9f817-df7a-4068-983c-6f9a792b826f" name="Default Changelist" comment="">
+    <list default="true" id="63c9f817-df7a-4068-983c-6f9a792b826f" name="Default Changelist" comment="link for favicons 1.10 - medium logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,15 +55,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="152" />
-          <entry key="txt" value="184" />
+          <entry key="html" value="154" />
+          <entry key="txt" value="237" />
           <entry key="yml" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="152" />
-          <entry key="PLAIN_TEXT" value="184" />
+          <entry key="HTML" value="154" />
+          <entry key="PLAIN_TEXT" value="237" />
           <entry key="YAML" value="115" />
         </counts>
       </usages-collector>
@@ -87,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+            <state relative-caret-position="556">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
               </folding>
@@ -99,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="774">
-              <caret line="54" column="65" lean-forward="true" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
+              <caret line="54" column="93" selection-start-line="54" selection-start-column="93" selection-end-line="54" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -220,7 +222,7 @@
       <option name="presentableId" value="Default" />
       <updated>1538538091453</updated>
       <workItem from="1538538093022" duration="4682000" />
-      <workItem from="1538847001233" duration="2463000" />
+      <workItem from="1538847001233" duration="2931000" />
     </task>
     <task id="LOCAL-00001" summary="Updated new icons for medium and kaggle&#10;using new fav icons">
       <created>1538847475074</created>
@@ -292,11 +294,25 @@
       <option name="project" value="LOCAL" />
       <updated>1538849343729</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="link for favicons 1.09 - older font awesome version">
+      <created>1538849706507</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1538849706507</updated>
+    </task>
+    <task id="LOCAL-00012" summary="link for favicons 1.10 - older font awesome version">
+      <created>1538849823626</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1538849823626</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7145000" />
+    <option name="totallyTimeSpent" value="7613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="759" y="22" width="917" height="1003" extended-state="0" />
@@ -305,6 +321,7 @@
       <window_info content_ui="combo" id="Project" order="0" weight="0.19134994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.25137213" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -337,7 +354,10 @@
     <MESSAGE value="link for favicons 1.05" />
     <MESSAGE value="link for favicons 1.07&#10;updated stylesheets again" />
     <MESSAGE value="link for favicons 1.08 - all icons updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="link for favicons 1.08 - all icons updated" />
+    <MESSAGE value="link for favicons 1.09 - older font awesome version" />
+    <MESSAGE value="link for favicons 1.10 - older font awesome version" />
+    <MESSAGE value="link for favicons 1.10 - medium logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="link for favicons 1.10 - medium logo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tags.md">
@@ -430,20 +450,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="774">
-          <caret line="54" column="65" lean-forward="true" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
+          <caret line="54" column="93" selection-start-line="54" selection-start-column="93" selection-end-line="54" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
