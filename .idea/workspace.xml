@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63c9f817-df7a-4068-983c-6f9a792b826f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2016-01-08-welcome-to-jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-01-08-welcome-to-jekyll.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-06-simpson-paradox-regression.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-06-simpson-paradox-regression.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-08-18-genius-way-to-intern.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-08-welcome-to-jekyll.markdown" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,7 +30,7 @@
         <counts>
           <entry key="Gemfile" value="1" />
           <entry key="LICENSE" value="1" />
-          <entry key="html" value="18" />
+          <entry key="html" value="19" />
           <entry key="ico" value="1" />
           <entry key="jpg" value="4" />
           <entry key="js" value="2" />
@@ -47,7 +47,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="18" />
+          <entry key="HTML" value="19" />
           <entry key="Image" value="9" />
           <entry key="JavaScript" value="2" />
           <entry key="Markdown" value="6" />
@@ -60,18 +60,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="372" />
-          <entry key="markdown" value="156" />
-          <entry key="txt" value="487" />
+          <entry key="html" value="395" />
+          <entry key="markdown" value="269" />
+          <entry key="txt" value="496" />
           <entry key="xml" value="52" />
           <entry key="yml" value="426" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="372" />
-          <entry key="Markdown" value="121" />
-          <entry key="PLAIN_TEXT" value="522" />
+          <entry key="HTML" value="395" />
+          <entry key="Markdown" value="234" />
+          <entry key="PLAIN_TEXT" value="531" />
           <entry key="XML" value="52" />
           <entry key="YAML" value="426" />
         </counts>
@@ -80,35 +80,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-08-18-genius-way-to-intern.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-01-08-welcome-to-jekyll.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-10-06-simpson-paradox-regression.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="190">
+              <caret line="94" column="42" lean-forward="true" selection-start-line="94" selection-start-column="42" selection-end-line="94" selection-end-column="42" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,11 +137,11 @@
       <list>
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/feed.xml" />
-        <option value="$PROJECT_DIR$/_posts/2016-01-08-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-10-06-simpson-paradox-regression.markdown" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/_posts/2016-01-08-welcome-to-jekyll.markdown" />
       </list>
     </option>
   </component>
@@ -240,7 +231,7 @@
       <updated>1538538091453</updated>
       <workItem from="1538538093022" duration="4682000" />
       <workItem from="1538847001233" duration="6480000" />
-      <workItem from="1538853656097" duration="3412000" />
+      <workItem from="1538853656097" duration="3925000" />
     </task>
     <task id="LOCAL-00001" summary="Updated new icons for medium and kaggle&#10;using new fav icons">
       <created>1538847475074</created>
@@ -487,11 +478,32 @@
       <option name="project" value="LOCAL" />
       <updated>1538856674807</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="trying new link through post">
+      <created>1538857116402</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1538857116402</updated>
+    </task>
+    <task id="LOCAL-00037" summary="trying new link through post">
+      <created>1538857222408</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1538857222408</updated>
+    </task>
+    <task id="LOCAL-00038" summary="trying new link through post">
+      <created>1538857391818</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1538857391818</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14574000" />
+    <option name="totallyTimeSpent" value="15087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="332" y="22" width="1342" height="1003" extended-state="0" />
@@ -626,16 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="105" selection-start-line="105" selection-end-line="105" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="774">
@@ -672,26 +674,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-08-welcome-to-jekyll.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-10-06-simpson-paradox-regression.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
@@ -704,8 +691,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        <state relative-caret-position="120">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-18-genius-way-to-intern.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="94" column="42" lean-forward="true" selection-start-line="94" selection-start-column="42" selection-end-line="94" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
