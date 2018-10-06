@@ -1,7 +1,7 @@
 ---
 title:  "titttle"
 date:   2018-10-06 15:04:23
-categories: 
+categories: [projects] 
 tags: [article]
 outside_link: "N"
 link:
