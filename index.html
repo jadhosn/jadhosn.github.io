@@ -8,8 +8,8 @@ robots: noindex
   <ol class="post-list">
     {% for post in paginator.posts %}
       <li>
-          {% if post.flag == "Y" %}
-          <h2 class="post-list__post-title post-title"><a href="https://www.facebook.com" title="{{ post.title }}">{{ post.title }}</a></h2>
+          {% if post.outside_link == "Y" %}
+          <h2 class="post-list__post-title post-title"><a href={{post.link}} title="{{ post.title }}">{{ post.title }}</a></h2>
           {% else %}
           <h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
           {% endif %}

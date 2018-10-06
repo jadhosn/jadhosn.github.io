@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63c9f817-df7a-4068-983c-6f9a792b826f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-08-welcome-to-jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-01-08-welcome-to-jekyll.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-10-06-simpson-paradox-regression.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-06-simpson-paradox-regression.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -35,7 +35,7 @@
           <entry key="jpg" value="4" />
           <entry key="js" value="2" />
           <entry key="lock" value="2" />
-          <entry key="markdown" value="6" />
+          <entry key="markdown" value="8" />
           <entry key="md" value="4" />
           <entry key="png" value="4" />
           <entry key="scss" value="3" />
@@ -50,7 +50,7 @@
           <entry key="HTML" value="18" />
           <entry key="Image" value="9" />
           <entry key="JavaScript" value="2" />
-          <entry key="Markdown" value="4" />
+          <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="SCSS" value="3" />
           <entry key="SVG" value="1" />
@@ -60,18 +60,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="353" />
-          <entry key="markdown" value="136" />
-          <entry key="txt" value="481" />
+          <entry key="html" value="372" />
+          <entry key="markdown" value="156" />
+          <entry key="txt" value="487" />
           <entry key="xml" value="52" />
           <entry key="yml" value="426" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="353" />
-          <entry key="Markdown" value="101" />
-          <entry key="PLAIN_TEXT" value="516" />
+          <entry key="HTML" value="372" />
+          <entry key="Markdown" value="121" />
+          <entry key="PLAIN_TEXT" value="522" />
           <entry key="XML" value="52" />
           <entry key="YAML" value="426" />
         </counts>
@@ -80,11 +80,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="375">
+              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -93,20 +93,20 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-01-08-welcome-to-jekyll.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-10-06-simpson-paradox-regression.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="21" column="52" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="52" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -149,8 +149,8 @@
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/feed.xml" />
         <option value="$PROJECT_DIR$/_posts/2016-01-08-welcome-to-jekyll.markdown" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2018-10-06-simpson-paradox-regression.markdown" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -240,7 +240,7 @@
       <updated>1538538091453</updated>
       <workItem from="1538538093022" duration="4682000" />
       <workItem from="1538847001233" duration="6480000" />
-      <workItem from="1538853656097" duration="2972000" />
+      <workItem from="1538853656097" duration="3412000" />
     </task>
     <task id="LOCAL-00001" summary="Updated new icons for medium and kaggle&#10;using new fav icons">
       <created>1538847475074</created>
@@ -480,11 +480,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538856508962</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="trying new link through post">
+      <created>1538856674807</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1538856674807</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14134000" />
+    <option name="totallyTimeSpent" value="14574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="332" y="22" width="1342" height="1003" extended-state="0" />
@@ -503,7 +510,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32930845" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.25137213" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -665,18 +672,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-01-08-welcome-to-jekyll.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
@@ -690,8 +690,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-10-06-simpson-paradox-regression.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="21" column="52" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="52" />
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
@@ -699,6 +699,13 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
         </state>
       </provider>
     </entry>
