@@ -84,6 +84,29 @@
                 <!--<span class="label">RSS</span>-->
               <!--</a>-->
             <!--</li>-->
+
+              {% if site.author.medium_username %}
+              <!-- Email -->
+              <li class="navigation__item">
+                <a href="https://www.github.com/{{ site.author.medium_username }}" title="{{ site.author.github_username }} on Medium" target="_blank">
+                  <i class="fab fa-medium-m"></i>
+                  <span class="label">Medium</span>
+                </a>
+              </li>
+              {% endif %}
+
+
+              {% if site.author.kaggle_username %}
+              <!-- Email -->
+              <li class="navigation__item">
+                <a href="https://www.github.com/{{ site.author.kaggle_username }}" title="{{ site.author.email }} on Kaggle" target="_blank">
+                  <i class="fab fa-kaggle"></i>
+                  <span class="label">Kaggle</span>
+                </a>
+              </li>
+              {% endif %}
+
+
             </ul>
           </nav>
 
