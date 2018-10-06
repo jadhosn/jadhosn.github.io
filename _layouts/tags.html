@@ -20,7 +20,7 @@ layout: default
         <!-- list only those which contain the current tag --> 
         {% if post.tags contains tagitem[0] %}
             {% if post.outside_link == "Y" %}
-            <a href={{post.link}} target="_blank">{{ post.title }}</a>
+             <a href={{post.link}} title="{{ post.title }}" target="_blank">{{ post.title }}</a>
             <br>
             {% else %}
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
