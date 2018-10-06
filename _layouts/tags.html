@@ -21,8 +21,10 @@ layout: default
         {% if post.tags contains tagitem[0] %}
           {% if post.outside_link == "Y" %}
           <a href="{{post.link}}" target="_blank">{{ post.title }}</a>
+      <br>
           {% else %}
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <br>
           {% endif %}
             <!--<li>-->
               <!--<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>-->
