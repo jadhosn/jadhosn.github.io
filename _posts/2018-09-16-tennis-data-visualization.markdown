@@ -1,12 +1,18 @@
 ---
-title:  "Australia's Tennis Data - a Visual data story"
+title:  "Australian Tennis Championships - interactive d3.js"
 date:   2018-09-16 15:04:23
 categories:  
 tags: [Projects]
 outside_link: "N"
-link: "jadhosn.github.io/projects/tennis-vis/index.html"
+link: 
 ---
+This visualization is an interactive data story that shows how each player compares to their counterparts from the same country.  
 
+If you **hover** on the dots below, you can see the same on each player displayed in the top **left** corner. 
+
+This plot is also linked to a second plot, which appears when you **click on any dot**.  
+ 
+_This is my first d3.js interactive visualization, part of a graduate data visualization course._
 
 
 <script src="https://d3js.org/d3.v5.js"></script>
