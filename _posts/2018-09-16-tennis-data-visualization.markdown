@@ -9,7 +9,7 @@ link: "jadhosn.github.io/projects/tennis-vis/index.html"
 
 
 
-<script type="text/javascript" src="jadhosn/github.io/projects/tennis-vis/d3.js"></script>
+<script src="https://d3js.org/d3.v5.js"></script>
 <script>
 //width and height
 var width = 800;
