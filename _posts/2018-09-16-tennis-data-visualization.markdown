@@ -8,7 +8,8 @@ link:
 ---
 This visualization is an interactive data story that shows how each player compares to their counterparts from the same country.  
 
-If you **hover** on the dots below, it highlights the players from the same country while the rest are dimmed in the background.  
+If you **hover** on the dots below, it highlights the players from the same country while the rest are dimmed in the background.
+  
 Also, when you **hover on any given dot**, you can see the same on each player displayed in the top **left** corner. 
 
 This plot is also linked to a second plot, which appears when you **click on any dot**.  
