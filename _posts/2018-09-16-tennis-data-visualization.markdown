@@ -17,7 +17,7 @@ var height = 600;
 var padding = 40;
 
 
-d3.csv('../projects/tennis-vis/data.csv')
+d3.csv('../../projects/tennis-vis/data.csv')
     .then(function(data) {
 
         var xScale = d3.scaleLinear()
