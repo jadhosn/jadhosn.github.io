@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63c9f817-df7a-4068-983c-6f9a792b826f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,7 +32,7 @@
           <entry key="html" value="33" />
           <entry key="ico" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="8" />
+          <entry key="js" value="9" />
           <entry key="lock" value="2" />
           <entry key="markdown" value="15" />
           <entry key="md" value="10" />
@@ -48,7 +48,7 @@
         <counts>
           <entry key="HTML" value="33" />
           <entry key="Image" value="9" />
-          <entry key="JavaScript" value="8" />
+          <entry key="JavaScript" value="9" />
           <entry key="Markdown" value="13" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="SCSS" value="4" />
@@ -60,8 +60,8 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="579" />
-          <entry key="markdown" value="441" />
-          <entry key="txt" value="643" />
+          <entry key="markdown" value="514" />
+          <entry key="txt" value="661" />
           <entry key="xml" value="52" />
           <entry key="yml" value="426" />
         </counts>
@@ -69,8 +69,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="579" />
-          <entry key="Markdown" value="406" />
-          <entry key="PLAIN_TEXT" value="678" />
+          <entry key="Markdown" value="479" />
+          <entry key="PLAIN_TEXT" value="696" />
           <entry key="XML" value="52" />
           <entry key="YAML" value="426" />
         </counts>
@@ -138,11 +138,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="25" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="150">
+                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/tennis-vis/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-end-line="179" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -186,6 +195,8 @@
       <find>tags/</find>
       <find>tags</find>
       <find>blog</find>
+      <find>csv</find>
+      <find>body</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -211,8 +222,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-06-ufo-data-visualization.markdown" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
-        <option value="$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown" />
         <option value="$PROJECT_DIR$/_layouts/tags.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown" />
       </list>
     </option>
   </component>
@@ -320,14 +331,7 @@
       <workItem from="1538538093022" duration="4682000" />
       <workItem from="1538847001233" duration="6480000" />
       <workItem from="1538853656097" duration="9794000" />
-      <workItem from="1538886136436" duration="226000" />
-    </task>
-    <task id="LOCAL-00006" summary="link for favicons 1.04">
-      <created>1538848665295</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1538848665295</updated>
+      <workItem from="1538886136436" duration="483000" />
     </task>
     <task id="LOCAL-00007" summary="link for favicons 1.05">
       <created>1538848773605</created>
@@ -665,17 +669,24 @@
       <option name="project" value="LOCAL" />
       <updated>1538863923004</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="d3.js built in">
+      <created>1538886597441</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1538886597442</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21182000" />
+    <option name="totallyTimeSpent" value="21439000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="530" y="22" width="1144" height="1003" extended-state="0" />
+    <frame x="820" y="22" width="854" height="1003" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2573464" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25690275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -702,7 +713,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated new icons for medium and kaggle&#10;using new fav icons" />
     <MESSAGE value="link for favicons" />
     <MESSAGE value="link for favicons 1.01" />
     <MESSAGE value="link for favicons 1.02" />
@@ -727,7 +737,8 @@
     <MESSAGE value="updating projects button" />
     <MESSAGE value="reprodcuing homework in html" />
     <MESSAGE value="bug fix: sorted by tags returning wrong link" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fix: sorted by tags returning wrong link" />
+    <MESSAGE value="d3.js built in" />
+    <option name="LAST_COMMIT_MESSAGE" value="d3.js built in" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
@@ -930,6 +941,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/projects/tennis-vis/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-end-line="179" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projects/tennis-vis/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -937,18 +955,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/tennis-vis/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="25" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor />
         </state>

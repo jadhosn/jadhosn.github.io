@@ -9,7 +9,7 @@ link: "jadhosn.github.io/projects/tennis-vis/index.html"
 
 
 
-<script src="https://d3js.org/d3.v5.js"></script>
+<script type="text/javascript" src="jadhosn/github.io/projects/tennis-vis/d3.js"></script>
 <script>
 //width and height
 var width = 800;
@@ -40,12 +40,12 @@ d3.csv('jadhosn/github.io/projects/tennis-vis/data.csv')
             .domain(d3.extent(data, function(d) { return +d.wins; }))
             .range([10,35]);
 
-        var tooltip = d3.select("body")
+        var tooltip = d3.select("div#example")
             .append('div')
             .attr("class",'tooltip')
             .style('opacity',0);
 
-        var svg = d3.select("body")
+        var svg = d3.select("div#example")
             .append("svg")
             // .classed("svg-container", true)
             .attr("width", width)
@@ -131,7 +131,7 @@ d3.csv('jadhosn/github.io/projects/tennis-vis/data.csv')
 
         var r = Math.min(width, height)/2;
 
-        var svg2 = d3.select("body")
+        var svg2 = d3.select("div#example")
             .append("svg")
             .attr("width", width)
             .attr("height", height)
@@ -191,5 +191,5 @@ d3.csv('jadhosn/github.io/projects/tennis-vis/data.csv')
         }
 
     })
-
 </script>
+<div id="example"></div>
