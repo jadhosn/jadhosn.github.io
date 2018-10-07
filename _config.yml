@@ -1,6 +1,9 @@
 # Site settings
 title: Jad Hosn
-description: "Welcome to my data science portfolio!\n\nI am a junior data scientist, passionate about leveraging data using statistical modeling.\nI have expertise in Data Engineering, ETL and Data warehousing. I am proficient in R, Python, Tableau and SQL, as well as Informatica and Hadoop "
+description: "Welcome to my data science portfolio!\n\n
+I am a junior data scientist, passionate about leveraging data using statistical modeling.\n
+
+I have expertise in Data Engineering, ETL and Data warehousing. I am proficient in R, Python, Tableau and SQL, as well as Informatica and Hadoop "
 url: 'http://jadhosn.github.io'
 baseurl: ''
 
