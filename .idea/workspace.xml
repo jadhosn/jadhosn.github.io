@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63c9f817-df7a-4068-983c-6f9a792b826f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/tennis-vis/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/tennis-vis/index.js" beforeDir="false" />
-    </list>
+    <list default="true" id="63c9f817-df7a-4068-983c-6f9a792b826f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -62,8 +58,8 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="579" />
-          <entry key="markdown" value="1082" />
-          <entry key="txt" value="676" />
+          <entry key="markdown" value="1240" />
+          <entry key="txt" value="685" />
           <entry key="xml" value="52" />
           <entry key="yml" value="426" />
         </counts>
@@ -71,8 +67,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="579" />
-          <entry key="Markdown" value="1047" />
-          <entry key="PLAIN_TEXT" value="711" />
+          <entry key="Markdown" value="1205" />
+          <entry key="PLAIN_TEXT" value="720" />
           <entry key="XML" value="52" />
           <entry key="YAML" value="426" />
         </counts>
@@ -141,8 +137,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" selection-start-line="11" selection-end-line="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -315,28 +311,7 @@
       <workItem from="1538538093022" duration="4682000" />
       <workItem from="1538847001233" duration="6480000" />
       <workItem from="1538853656097" duration="9794000" />
-      <workItem from="1538886136436" duration="1353000" />
-    </task>
-    <task id="LOCAL-00012" summary="link for favicons 1.10 - older font awesome version">
-      <created>1538849823626</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1538849823626</updated>
-    </task>
-    <task id="LOCAL-00013" summary="link for favicons 1.11 - v5 fontawesome">
-      <created>1538850061335</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1538850061335</updated>
-    </task>
-    <task id="LOCAL-00014" summary="link for favicons 1.12 - v5 fontawesome">
-      <created>1538850203844</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1538850203844</updated>
+      <workItem from="1538886136436" duration="1616000" />
     </task>
     <task id="LOCAL-00015" summary="medium and kaggle links updated">
       <created>1538850436197</created>
@@ -660,11 +635,32 @@
       <option name="project" value="LOCAL" />
       <updated>1538887119704</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="d3.js built in">
+      <created>1538887524707</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1538887524707</updated>
+    </task>
+    <task id="LOCAL-00062" summary="d3.js built in">
+      <created>1538887634431</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1538887634431</updated>
+    </task>
+    <task id="LOCAL-00063" summary="d3.js built in">
+      <created>1538887685861</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1538887685861</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22309000" />
+    <option name="totallyTimeSpent" value="22572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="22" width="1603" height="1003" extended-state="0" />
@@ -942,8 +938,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
           </first_editor>
           <second_editor />
         </state>
