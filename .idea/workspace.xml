@@ -4,20 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/_posts/2018-10-07-azure-db-installation.markdown" line="49" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63c9f817-df7a-4068-983c-6f9a792b826f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/posts/1/db1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/1/db10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/1/db11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/1/db12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/1/db3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/1/db4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/1/db5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/1/db6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/1/db8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/1/db9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-07-azure-db-installation.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-07-azure-db-installation.markdown" afterDir="false" />
-    </list>
+    <list default="true" id="63c9f817-df7a-4068-983c-6f9a792b826f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -31,7 +18,7 @@
     <session id="1910309800">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.6" value="1" />
@@ -49,7 +36,7 @@
           <entry key="jpg" value="4" />
           <entry key="js" value="9" />
           <entry key="lock" value="2" />
-          <entry key="markdown" value="16" />
+          <entry key="markdown" value="17" />
           <entry key="md" value="10" />
           <entry key="png" value="18" />
           <entry key="scss" value="4" />
@@ -64,7 +51,7 @@
           <entry key="HTML" value="33" />
           <entry key="Image" value="23" />
           <entry key="JavaScript" value="9" />
-          <entry key="Markdown" value="14" />
+          <entry key="Markdown" value="15" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="SCSS" value="4" />
           <entry key="SVG" value="1" />
@@ -75,8 +62,8 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="579" />
-          <entry key="markdown" value="2709" />
-          <entry key="txt" value="721" />
+          <entry key="markdown" value="2725" />
+          <entry key="txt" value="753" />
           <entry key="xml" value="52" />
           <entry key="yml" value="608" />
         </counts>
@@ -84,8 +71,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="579" />
-          <entry key="Markdown" value="2674" />
-          <entry key="PLAIN_TEXT" value="756" />
+          <entry key="Markdown" value="2690" />
+          <entry key="PLAIN_TEXT" value="788" />
           <entry key="XML" value="52" />
           <entry key="YAML" value="608" />
         </counts>
@@ -98,8 +85,20 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-10-07-azure-db-installation.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="810">
-                <caret line="54" column="66" selection-start-line="54" selection-start-column="66" selection-end-line="54" selection-end-column="66" />
+              <first_editor relative-caret-position="405">
+                <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -158,8 +157,8 @@
         <option value="$PROJECT_DIR$/_posts/2018-10-06-ufo-data-visualization.markdown" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_layouts/tags.html" />
-        <option value="$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-10-07-azure-db-installation.markdown" />
       </list>
     </option>
@@ -275,28 +274,7 @@
       <workItem from="1538847001233" duration="6480000" />
       <workItem from="1538853656097" duration="9794000" />
       <workItem from="1538886136436" duration="2546000" />
-      <workItem from="1538963130093" duration="2415000" />
-    </task>
-    <task id="LOCAL-00018" summary="updating resume">
-      <created>1538851367183</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1538851367183</updated>
-    </task>
-    <task id="LOCAL-00019" summary="updating resume">
-      <created>1538851477633</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1538851477633</updated>
-    </task>
-    <task id="LOCAL-00020" summary="updating resume">
-      <created>1538851857877</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1538851857877</updated>
+      <workItem from="1538963130093" duration="2674000" />
     </task>
     <task id="LOCAL-00021" summary="final run for resume">
       <created>1538852203306</created>
@@ -620,11 +598,32 @@
       <option name="project" value="LOCAL" />
       <updated>1538963600182</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="New post - Azure Setup">
+      <created>1538965593997</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1538965593997</updated>
+    </task>
+    <task id="LOCAL-00068" summary="New post - Azure Setup">
+      <created>1538965743327</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1538965743327</updated>
+    </task>
+    <task id="LOCAL-00069" summary="New post - Azure Setup">
+      <created>1538965813566</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1538965813566</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25917000" />
+    <option name="totallyTimeSpent" value="26176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="280" y="22" width="1493" height="1003" extended-state="0" />
@@ -657,7 +656,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="link for favicons 1.02" />
     <MESSAGE value="link for favicons 1.03" />
     <MESSAGE value="link for favicons 1.04" />
     <MESSAGE value="link for favicons 1.05" />
@@ -682,7 +680,8 @@
     <MESSAGE value="d3.js built in" />
     <MESSAGE value="updating intro" />
     <MESSAGE value="updating post" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating post" />
+    <MESSAGE value="New post - Azure Setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="New post - Azure Setup" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
@@ -861,16 +860,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/tennis-vis/index.html" />
     <entry file="file://$PROJECT_DIR$/projects/tennis-vis/index.js" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
-            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/categories.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -918,11 +907,21 @@
     <entry file="file://$PROJECT_DIR$/images/posts/1/db11.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-16-tennis-data-visualization.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-10-07-azure-db-installation.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="810">
-            <caret line="54" column="66" selection-start-line="54" selection-start-column="66" selection-end-line="54" selection-end-column="66" />
+          <first_editor relative-caret-position="405">
+            <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>
