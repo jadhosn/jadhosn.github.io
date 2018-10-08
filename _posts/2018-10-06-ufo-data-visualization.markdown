@@ -6,4 +6,4 @@ tags: [Projects]
 outside_link: "N"
 link:
 ---
-Homework due October 15th
+Coming soon - October 15th, 2018
