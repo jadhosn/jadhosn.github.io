@@ -38,7 +38,7 @@ Let's check whether we created our database properly:
 * Azure will prompt to login (using the username that you used when you created the server above)  
 ![Image 6](../../images/posts/1/db6.png)   
 * Type in a small SQL command to test the database: Type in the query window on the right this SQL command
- _SELECT * FROM SalesLT.Customer_ and then hit **run**. You should an output similar to the one below  
+ _SELECT * FROM SalesLT.Customer;_ and then hit **run**. You should see an output similar to the one below  
 ![Image 8](../../images/posts/1/db8.png)  
 
 
