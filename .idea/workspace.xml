@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/_posts/2018-10-07-azure-db-installation.markdown" line="49" mnemonic="8" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="63c9f817-df7a-4068-983c-6f9a792b826f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-10-07-azure-db-installation.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/1/db1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/1/db10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/1/db11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/1/db12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/1/db3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/1/db4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/1/db5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/1/db6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/1/db8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/1/db9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-10-07-azure-db-installation.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-07-azure-db-installation.markdown" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,7 +51,7 @@
           <entry key="lock" value="2" />
           <entry key="markdown" value="16" />
           <entry key="md" value="10" />
-          <entry key="png" value="4" />
+          <entry key="png" value="18" />
           <entry key="scss" value="4" />
           <entry key="svg" value="1" />
           <entry key="txt" value="1" />
@@ -49,7 +62,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="33" />
-          <entry key="Image" value="9" />
+          <entry key="Image" value="23" />
           <entry key="JavaScript" value="9" />
           <entry key="Markdown" value="14" />
           <entry key="PLAIN_TEXT" value="7" />
@@ -62,8 +75,8 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="579" />
-          <entry key="markdown" value="1434" />
-          <entry key="txt" value="705" />
+          <entry key="markdown" value="2709" />
+          <entry key="txt" value="721" />
           <entry key="xml" value="52" />
           <entry key="yml" value="608" />
         </counts>
@@ -71,8 +84,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="579" />
-          <entry key="Markdown" value="1399" />
-          <entry key="PLAIN_TEXT" value="740" />
+          <entry key="Markdown" value="2674" />
+          <entry key="PLAIN_TEXT" value="756" />
           <entry key="XML" value="52" />
           <entry key="YAML" value="608" />
         </counts>
@@ -85,12 +98,17 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-10-07-azure-db-installation.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <first_editor relative-caret-position="810">
+                <caret line="54" column="66" selection-start-line="54" selection-start-column="66" selection-end-line="54" selection-end-column="66" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/posts/1/db11.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -158,6 +176,9 @@
     <option name="width" value="1493" />
     <option name="height" value="1003" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -187,6 +208,13 @@
               <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jadhosn.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadhosn.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -207,6 +235,7 @@
       <recent name="$PROJECT_DIR$/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/posts/1" />
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
@@ -246,14 +275,7 @@
       <workItem from="1538847001233" duration="6480000" />
       <workItem from="1538853656097" duration="9794000" />
       <workItem from="1538886136436" duration="2546000" />
-      <workItem from="1538963130093" duration="403000" />
-    </task>
-    <task id="LOCAL-00017" summary="updating resume">
-      <created>1538851274768</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1538851274768</updated>
+      <workItem from="1538963130093" duration="2415000" />
     </task>
     <task id="LOCAL-00018" summary="updating resume">
       <created>1538851367183</created>
@@ -591,14 +613,22 @@
       <option name="project" value="LOCAL" />
       <updated>1538888346759</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="updating post">
+      <created>1538963600181</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1538963600182</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23905000" />
+    <option name="totallyTimeSpent" value="25917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="280" y="22" width="1493" height="1003" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25611413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -627,7 +657,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="link for favicons 1.01" />
     <MESSAGE value="link for favicons 1.02" />
     <MESSAGE value="link for favicons 1.03" />
     <MESSAGE value="link for favicons 1.04" />
@@ -652,7 +681,8 @@
     <MESSAGE value="bug fix: sorted by tags returning wrong link" />
     <MESSAGE value="d3.js built in" />
     <MESSAGE value="updating intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating intro" />
+    <MESSAGE value="updating post" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating post" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
@@ -861,11 +891,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/1/db3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/1/db4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/1/db5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/1/db6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/1/db7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/1/db8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/1/db9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/1/db10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/1/db11.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-10-07-azure-db-installation.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <first_editor relative-caret-position="810">
+            <caret line="54" column="66" selection-start-line="54" selection-start-column="66" selection-end-line="54" selection-end-column="66" />
           </first_editor>
           <second_editor />
         </state>
