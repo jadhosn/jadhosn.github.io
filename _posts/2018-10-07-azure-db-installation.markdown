@@ -12,11 +12,11 @@ A. Setting up Azure SQL database: 
 
 Azure offers a [free trial subscription](https://azure.microsoft.com/en-us/free/){:target="_blank"} for the first month (if you didn't 
 use it already). This type of subscription does require valid payment details, __BUT__ if you're a student, you can 
-activate your account using [the student trial version](https://medium.com/r/?url=https%3A%2F%2Fazure.microsoft.com%2Fen-us%2Ffree%2Fstudents%2F)
+activate your account using [the student trial version](https://medium.com/r/?url=https%3A%2F%2Fazure.microsoft.com%2Fen-us%2Ffree%2Fstudents%2F){:target="_blank"}
  (no payment details needed, just sign in with your school's credentials).  
 
 B. Create an Azure SQL database: 
-1. Browse to [https://portal.azure.com](https://portal.azure.com), sign-in with your free trial account
+1. Browse to [https://portal.azure.com](https://portal.azure.com){:target="_blank"}, sign-in with your free trial account
 2. In the left pane, click **+ New Resource**, then **SQL database**  
 ![Image2](../../images/posts/1/db1.png)  
 
