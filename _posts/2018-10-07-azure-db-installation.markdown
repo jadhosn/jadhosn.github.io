@@ -8,14 +8,14 @@ link:
 ---
 A Step-by-step Azure SQL database Installation: 
 
-###Setting up Azure SQL database: 
+A. Setting up Azure SQL database: 
 
 Azure offers a [free trial subscription](https://azure.microsoft.com/en-us/free/) for the first month (if you didn't 
 use it already). This type of subscription does require valid payment details, __BUT__ if you're a student, you can 
 activate your account using [the student trial version](https://medium.com/r/?url=https%3A%2F%2Fazure.microsoft.com%2Fen-us%2Ffree%2Fstudents%2F)
  (no payment details needed, just sign in with your school's credentials).  
 
-###Create an Azure SQL database: 
+B. Create an Azure SQL database: 
 1. Browse to [https://portal.azure.com](https://portal.azure.com), sign-in with your free trial account
 2. In the left pane, click **+ New Resource**, then **SQL database**  
 ![Image2](../../images/posts/1/db1.png)  
@@ -42,7 +42,7 @@ Let's check whether we created our database properly:
 ![Image 8](../../images/posts/1/db8.png)  
 
 
-###Configure Azure firewall for external database client tools (SSMS, Azure data studio ...)  
+C. Configure Azure firewall for external database client tools (SSMS, Azure data studio ...)  
 * Go back to all resources, and click on your **server** sql-test-medium  
 ![Image 9](../../images/posts/1/db9.png)  
 * Go to Firewal and virtual network  
