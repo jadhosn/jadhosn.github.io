@@ -6,6 +6,24 @@ tags: [Projects]
 outside_link: "N"
 link:
 ---
+<head>
+    <style>
+
+        .states :hover {
+            fill: red;
+        }
+
+        .state-borders {
+            fill: none;
+            stroke: #000000;
+            stroke-width: 0.5px;
+        }
+        .bar{
+            fill: blue;
+        }
+
+    </style>
+</head>
 <svg width="1000" height="600" id="svg1"></svg>
 <svg width="960" height="600" id="svg2"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
