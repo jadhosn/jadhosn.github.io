@@ -38,7 +38,7 @@ let color = d3.scaleOrdinal(d3.schemeCategory10)
 var svg = d3.select("#svg1");
 
 
-d3.csv('ufo-data.csv', function(data) {
+d3.csv('../../projects/ufo-vis/ufo-data.csv', function(data) {
 
 
     d3.json("https://d3js.org/us-10m.v1.json", function (error, us) {
