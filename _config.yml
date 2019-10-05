@@ -1,16 +1,16 @@
 # Site settings
-title: Jad Hosn
+title: Jad Aboul Hosn
 description: "Welcome to my data science portfolio!\n\n
-I am a junior data scientist, passionate about leveraging data using statistical modeling.\n
-
-I have expertise in Data Engineering, ETL and Data warehousing. I am proficient in R, Python, Tableau and SQL, as well as Informatica and Hadoop "
+I am a junior data scientist, passionate about leveraging data to drive business insights and decisions.\n
+My expertise includes designing and building predictive models using various statistical machine learning techniques. I build data pipelines complete with feature extraction and transformations that feed into production models. \n
+I have 1.5 years of experience doing quantitative analysis, handling millions of rows of data, developing insights from a large array of datasets, and applying cutting edge methods in machine learning, optimization, and statistics."
 url: 'http://jadhosn.github.io'
 baseurl: ''
 
 google_analytics: 'UA-124636227-2'
 # disqus_shortname: 'your-disqus-name'
 
-resume: https://drive.google.com/open?id=1hSzpeAh3X7fY5HHe-qVCZ4bHxkIdFKoU
+resume: https://drive.google.com/file/d/1hSzpeAh3X7fY5HHe-qVCZ4bHxkIdFKoU
 
 author:
   name: 'Jad Aboul Hosn'
