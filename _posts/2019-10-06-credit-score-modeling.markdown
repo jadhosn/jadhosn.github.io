@@ -1,8 +1,8 @@
 ---
-title:  "Credit Scoring - Project, Data Wrangling (Tutorial)"
+title:  "Peer-to-peer credit risk modeling"
 date:   2019-10-06 15:00:00
 categories:  
-tags: [Credit, Credit Scoring, Tutorial, Side-Project]
+tags: [Credit, Credit Scoring, Side-Project]
 outside_link: "N"
 link: ""
 ---
@@ -48,4 +48,56 @@ for some attributes that she thought might be interesting
 - Use the remaining features to analyze the model's performance 
 - Invesitgate dimensionality reduction to avoid correlation? 
 - What is CatBoost?
-- 
+
+
+## Introduction: 
+This is an effort to add more clarity to credit modeling. In terms of resources,
+there are multiple resources. I am a fan of a detailed step-by-step [tutorial](https://www.worldprogramming.com/us/blog/credit_scoring_development_pt1) from CreditKarma
+
+### What is a credit score? 
+Lenders (whether auto loans, credit cards, housing etc.) are looking to assess the risk of default for each customer so the lender can decide who to offer a credit line. 
+
+Companies that are no longer the generic credit score depend on credit bureau data sources, as well as the advancement in machine learning and available alternative data. 
+
+We are used to higher your score, you are more credit worthy 
+
+Credit scoring is assessing the likelihood of a customer defaulting on a credit obligation (delinquent)
+
+### Different types of scores: 
+There are different stages of the customer's journey into a loan, or a credit line: 
+#### A - Application Score:
+
+Before originating a loan
+
+#### B - Behavorial Score:
+
+#### C - Collection Score:
+
+### Modeling Techniques: 
+Following the Credit Scorecard model (logistic regression) and we like it because it's output can be used directly as probabilities. It's intuitive and easy to explain. 
+
+1. Design, develop and accurate and stable credit risk model 
+2. Make sure that other data scientists can replicate and follow my steps and obtain the similar results 
+
+3. How do we tell a 'bad' customer from a 'good' customer? What's the ideal performance window to look at? 60, 90 or 180 days past due?
+--> the answer should depend on the business needs in the case but all these different windows can be investigated 
+
+4. Definitely worth putting these questions in an EDA format: 
+Question 4: What are the main characteristics that tell "bad" from "good" customers?
+Answer 4: This is part of my theoretical framework, specifically identification of independent variables. I will carry out data exploration to establish the relationships between customers’ characteristics and the outcome variable. For example, "customers that have regular income are less likely to default" or "older customers are less likely to default". In scientific terminology, each characteristic, such as income or age, represents a hypothesis that is tested for significance using a statistical method such as logistic regression. Based on statistical analysis, I can decide whether to retain such variables in the model.
+
+5. When you are developing an end-to-end machine learning pipeline, there are certain constraints that one must keep in mind: 
+Having a multidisciplinary nature, data mining projects require consideration from different perspectives, including:
+
+Business – for assessing potential business benefits
+Data science – for creating a theoretical model
+Software development – for developing a viable software solution
+
+6. What are those? 
+Examples of two popular methodologies are Agile-scrum and CRISP-DM (Cross Industry Standard Process for Data Mining)
+
+I am using an agile-scrum methodology 
+
+7. What are the key elements at play here:
+- dependent variable (loan status)
+- predictors (customer attributes, employment, income, bank and card behavior)
