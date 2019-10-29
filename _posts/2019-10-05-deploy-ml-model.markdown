@@ -112,4 +112,4 @@ package your model, environment and scoring script as a module. We want to run
 this piece of code on a cloud virtual machine. 
 
 
-[Intro.pdf](http://jadhosn.github.io/projects/sml.pdf).
+[Intro.pdf](http://jadhosn.github.io/projects/CSE575_FinalReport-SarcasmDetection.pdf).
