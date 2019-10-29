@@ -22,9 +22,11 @@ layout: default
             {% if post.outside_link == "Y" %}
              <a href={{post.link}} title="{{ post.title }}" target="_blank">{{ post.title }}</a>
             <br>
+			<br>
             {% else %}
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             <br>
+			<br>
             {% endif %}
             <!--<li>-->
               <!--<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>-->
