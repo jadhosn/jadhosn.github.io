@@ -2,7 +2,7 @@
 title:  "NLP Tweets Sarcasm Detection"
 date:   2018-10-06 18:46:35
 categories:  
-tags: [Blog]
+tags: [Project]
 outside_link: "Y"
 link: "http://jadhosn.github.io/projects/CSE575_FinalReport-SarcasmDetection.pdf"
 ---

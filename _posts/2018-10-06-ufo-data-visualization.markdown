@@ -2,7 +2,7 @@
 title:  "UFO Sightings - a Visual data story"
 date:   2018-10-06 15:04:23
 categories:  
-tags: [Projects, d3.js]
+tags: [Project]
 outside_link: "N"
 link:
 ---
