@@ -10,7 +10,8 @@ baseurl: ''
 google_analytics: 'UA-124636227-2'
 # disqus_shortname: 'your-disqus-name'
 
-resume: https://drive.google.com/file/d/1hSzpeAh3X7fY5HHe-qVCZ4bHxkIdFKoU
+# resume: https://drive.google.com/file/d/1hSzpeAh3X7fY5HHe-qVCZ4bHxkIdFKoU
+resume: https://jadhosn.github.io/resume.pdf
 
 author:
   name: 'Jad Aboul Hosn'
