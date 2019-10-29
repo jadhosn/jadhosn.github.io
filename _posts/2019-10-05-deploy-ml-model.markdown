@@ -2,7 +2,7 @@
 title:  "Deploy your ML model for Real-time scoring"
 date:   2019-10-27 18:56:46
 categories:  
-tags: [Flask, Machine Learning, Tutorial, Side-Project]
+tags: [Project]
 outside_link: "N"
 link: ""
 ---

@@ -2,7 +2,7 @@
 title:  "Azure SQL database - A quick tutorial"
 date:   2018-10-06 18:46:35
 categories:  
-tags: [Azure, SQL, Tutorial]
+tags: [Blog]
 outside_link: "N"
 link:
 ---

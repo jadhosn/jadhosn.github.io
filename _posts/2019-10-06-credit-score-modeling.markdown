@@ -2,7 +2,7 @@
 title:  "Peer-to-peer credit risk modeling"
 date:   2019-10-06 15:00:00
 categories:  
-tags: [Credit, Credit Scoring, Side-Project]
+tags: [Project]
 outside_link: "N"
 link: ""
 ---
