@@ -5,6 +5,7 @@ categories:
 tags: [Project]
 outside_link: "N"
 link: 
+tools: [d3.js, js]
 ---
 This visualization is an interactive data story that shows how each player compares to their counterparts from the same country.  
 

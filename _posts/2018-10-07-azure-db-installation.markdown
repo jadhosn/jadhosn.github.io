@@ -5,6 +5,7 @@ categories:
 tags: [Blog]
 outside_link: "N"
 link:
+tools: [SQL, Azure]
 ---
 A Step-by-step Azure SQL database Installation: 
 
