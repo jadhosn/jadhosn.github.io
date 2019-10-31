@@ -21,17 +21,20 @@ layout: default
         {% if post.tags contains tagitem[0] %}
             {% if post.outside_link == "Y" %}
              <a href={{post.link}} title="{{ post.title }}" target="_blank">{{ post.title }}</a>
-			 <b>Tools:</b>
+			 <b>[</b>
 			 {% for tool in post.tools %} 
 			 <b>{{ tool }}</b>
 			 {% endfor %}
+			 <b>]</b>
             <br>
 			<br>
             {% else %}
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			 <b>[</b>
    			 {% for tool in post.tools %} 
    			 <b>{{ tool }}</b>
    			 {% endfor %}
+			 <b>]</b>
             <br>
 			<br>
             {% endif %}
