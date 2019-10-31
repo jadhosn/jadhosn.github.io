@@ -5,7 +5,7 @@ categories:
 tags: [Project]
 outside_link: "N"
 link: ""
-tools: [Python, Flask, Docker, AWS EC2]
+tools: [Python,',', Flask, Docker, AWS EC2]
 ---
 In this tutorial, we are going to walk through how to deploy your machine learning 
 model that you worked so hard to train and test out. After you flesh out all the 
