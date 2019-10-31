@@ -5,7 +5,7 @@ categories:
 tags: [Project]
 outside_link: "N"
 link:
-tools: [d3.js, js]
+tools: [d3.js]
 ---
 <head>
     <style>
