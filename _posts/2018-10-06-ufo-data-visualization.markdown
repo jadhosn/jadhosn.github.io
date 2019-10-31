@@ -7,6 +7,10 @@ outside_link: "N"
 link:
 tools: [d3.js]
 ---
+This visualization is an interactive data story that shows how each statistics of UFO sightings per each state over a period of time. A bar plot shows below the map showing the different counts per year. 
+ 
+_This d3.js interactive visualization was part of a graduate data visualization course._
+
 <head>
     <style>
 
