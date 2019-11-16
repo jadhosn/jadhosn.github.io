@@ -3,8 +3,8 @@ title:  "Peer-to-peer credit risk modeling"
 date:   2019-10-06 15:00:00
 categories:  
 tags: [Project]
-outside_link: "N"
-link: ""
+outside_link: "Y"
+link: "https://github.com/jadhosn/p2p-credit-modeling/blob/master/credit-risk-walkthrough.ipynb"
 tools: [Python, Jupyter]
 ---
 In this tutorial, I am going to walk you through how to set up your data for credit modeling. The conent of the article is based on multiple online resources, and some experience that I have acquired during my day-to-day learnings. 
