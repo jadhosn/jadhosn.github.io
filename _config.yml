@@ -1,9 +1,11 @@
 # Site settings
 title: Jad Aboul Hosn
 description: "Welcome to my data science portfolio!\n\n
-I am a junior data scientist, passionate about leveraging data to drive business insights and decisions.\n
-My expertise includes designing and building predictive models using various statistical machine learning techniques. I build data pipelines complete with feature extraction and transformations that feed into production models. \n
-I have 1.5 years of experience doing quantitative analysis, handling millions of rows of data, developing insights from a large array of datasets, and applying cutting edge methods in machine learning, optimization, and statistics."
+Full-stack data scientist (cowboy data scientist works too!)
+I do everything from data wrangling to building automated pipelines through training & deploying models. I am constantly on the hunt for the next challenging engineering problem. I strive to test & push new technologies and packages that enable data scientists to go back to doing 'data scienc-y' stuff without getting lost in the tech overhead. 
+My top strengths include strong organizational skills, designing, and engineering machine learning solutions, and building ML models! 
+I recently graduated from ASU with an MS in Computer Engineering. I completed courses in Artificial Intelligence, Statistical Machine Learning, Distributed Database Systems, and Data Visualization. 
+\nCompetencies: data science, machine learning, cloud computing, Python/R/SQL, statistical analysis"
 url: 'http://jadhosn.github.io'
 baseurl: ''
 
