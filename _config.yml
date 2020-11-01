@@ -1,13 +1,8 @@
 # Site settings
 title: Jad Aboul Hosn
-description: "Welcome to my data science portfolio!\n\n
-
-Full-stack data scientist (cowboy data scientist works too!)\n\n
-
-I do everything from data wrangling to building automated pipelines through training & deploying models. I am constantly on the hunt for the next challenging engineering problem. I strive to test & push new technologies and packages that enable data scientists to go back to doing 'data scienc-y' stuff without getting lost in the tech overhead. 
+description: "Welcome to my data science portfolio!\n\n Full-stack data scientist (cowboy data scientist works too!)\n\n I do everything from data wrangling to building automated pipelines through training & deploying models. I am constantly on the hunt for the next challenging engineering problem. I strive to test & push new technologies and packages that enable data scientists to go back to doing 'data scienc-y' stuff without getting lost in the tech overhead. 
 My top strengths include strong organizational skills, designing, and engineering machine learning solutions, and building ML models! 
-I recently graduated from ASU with an MS in Computer Engineering. I completed courses in Artificial Intelligence, Statistical Machine Learning, Distributed Database Systems, and Data Visualization. 
-\nCompetencies: data science, machine learning, cloud computing, Python/R/SQL, statistical analysis"
+I recently graduated from ASU with an MS in Computer Engineering. I completed courses in Artificial Intelligence, Statistical Machine Learning, Distributed Database Systems, and Data Visualization. \n\nCompetencies: data science, machine learning, cloud computing, Python/R/SQL, statistical analysis"
 url: 'http://jadhosn.github.io'
 baseurl: ''
 
